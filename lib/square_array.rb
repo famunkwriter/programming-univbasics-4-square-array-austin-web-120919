@@ -6,5 +6,5 @@ def square_array(array)
     new_array << array[counter].square_array
     counter += 1
   end
-  new array
+  new_array
 end
